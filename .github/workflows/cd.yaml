@@ -16,6 +16,6 @@ jobs:
           username: thialyson
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: thialyson/argocd-fullcycle
-          tags: ${{ env.GITHUB_SHA }}, latest
+          tags: ${{ github.sha }}, latest
 
   
