@@ -7,6 +7,6 @@ resources:
 namespace: nodeapp
 
 images:
-  - name: nodeapp
-    newName: nodeapp
-    newTag: v1
+- name: nodeapp
+  newName: thialyson/argocd-fulcycle
+  newTag: 8a8deec0659071ed87607ab59be3c471ac8c7562
