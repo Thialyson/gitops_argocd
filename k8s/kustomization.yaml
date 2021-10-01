@@ -8,5 +8,5 @@ namespace: nodeapp
 
 images:
 - name: nodeapp
-  newName: thialyson/argocd-fulcycle
-  newTag: cafc7ce4bfaaebac7ac4f2ee1840a92ea1ab3068
+  newName: thialyson/argocd-fullcycle
+  newTag: 297dd0f3ed06547e00f33989e43c2b7796e6a2b6
